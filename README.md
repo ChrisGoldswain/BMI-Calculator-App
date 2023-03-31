@@ -1,27 +1,15 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-#  BMI Calculator
+#  BMI Calculator App
 
-## Our Goal
+## Description
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+This app is part of the Udemy iOS Developer Bootcamp. it has two view controllers, containing UISliders and buttons.  This basic app demonstrates an understanding of optionals and classes.
 
-## What you will create
+Calculate view controller:
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+![Calculate view controller](https://user-images.githubusercontent.com/120228798/229046249-8f653d10-b7f7-4944-be8e-313e857a3244.png)
 
-## What you will learn
+Result view controller:
 
-* How to create multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
-* Color literals.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+![Result view controller](https://user-images.githubusercontent.com/120228798/229046262-d370819a-5c9b-40b6-9a56-f11d66ec85b4.png)
